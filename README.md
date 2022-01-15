@@ -3,7 +3,7 @@
 - :hammer: I've made some projects with Python (like a platform video game using pygame - 1v1)
 - 🌱 I’m currently learning Java
 - 💞️ I'm looking for work-study
-- ⚠️ I haven't configured yet my account, I will do this soon ⚠️
+- ⚠️ I haven't configured yet my account entirely, I will do this soon ⚠️
 <!---
 - 📫 How to reach me ...
 --->
