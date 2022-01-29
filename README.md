@@ -1,4 +1,7 @@
-- ⚠️ I haven't configured yet my account entirely, I will do this soon ⚠️
+----------------------------------------------------------------------------
+- ⚠️ I haven't configured yet my account entirely, I will do this soon ⚠️ -
+----------------------------------------------------------------------------
+
 - 👋 Hi, I’m @Flavinho27
 - 👀 I’m interested in automating process
 - :hammer: I've made some projects with Python (like a platform video game using pygame - 1v1)
