@@ -1,7 +1,7 @@
 https://flavinho27.github.io
 
 - 👋 Hi, I’m @Flavinho27 -> Flavien
-- 👀 I’m interested in automating process and making Webites
+- 👀 I’m interested in automating process and making Websites
 - :hammer: I've made some projects with Python
 - 🌱 I’m currently learning Java and make a website for an association
 - 💞️ I'm looking for work-study
